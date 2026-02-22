@@ -1,0 +1,4 @@
+- name: configure server
+  hosts:
+  become: 
+  roles:
